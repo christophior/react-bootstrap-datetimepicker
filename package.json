@@ -5,7 +5,7 @@
   "homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
   "repository": {
     "type": "git",
-    "url": "http://github.com/quri/react-bootstrap-datetimepicker"
+    "url": "git+ssh://git@github.com/quri/react-bootstrap-datetimepicker.git"
   },
   "main": "./lib/DateTimeField.js",
   "scripts": {
@@ -89,5 +89,11 @@
     "classnames": "^2.1.2",
     "moment": "^2.8.2",
     "prop-types": "^15.8.1"
+  },
+  "bugs": {
+    "url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+  },
+  "directories": {
+    "example": "examples"
   }
 }
